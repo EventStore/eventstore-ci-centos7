@@ -6,3 +6,6 @@ The build is currently used by our CI (Azure Pipelines)
 ### Installs:
 - mono 5.16.0
 - dotnet-sdk-2.1
+- node.js 8.11.4
+- fpm (latest)
+- awscli (latest)
